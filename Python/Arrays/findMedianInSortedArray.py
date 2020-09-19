@@ -18,6 +18,3 @@ def findMedianSortedArrays(nums1, nums2) -> float:
     return out
             
 
-arr1 = [2,3,4]
-arr2 = [1,4,5]
-print(findMedianSortedArrays(arr1, arr2))
